@@ -40,8 +40,6 @@ Aynı zamanda Python ve Flutter kullanarak güvenli, yapay zeka destekli uygulam
 
 ### 📊 GitHub İstatistiklerim
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuncayKaynakkan&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" alt="Tuncay's GitHub Stats" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuncayKaynakkan&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tuncay's Activity Streak" />
 </div>
 
