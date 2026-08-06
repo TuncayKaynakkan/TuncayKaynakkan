@@ -48,10 +48,10 @@ Aynı zamanda Python ve Flutter kullanarak güvenli, yapay zeka destekli uygulam
 ### 📫 Bana Ulaşın
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/tuncaykaynakkan/](https://www.linkedin.com/in/tuncay-kaynakkan-387352230/)" target="_blank">
+  <a href="https://www.linkedin.com/in/tuncay-kaynakkan-387352230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:Kaynakkantuncay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=KAynakkantuncay@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
