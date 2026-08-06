@@ -48,7 +48,7 @@ Aynı zamanda Python ve Flutter kullanarak güvenli, yapay zeka destekli uygulam
 ### 📫 Bana Ulaşın
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tuncaykaynakkan/" target="_blank">
+  <a href="[https://www.linkedin.com/in/tuncaykaynakkan/](https://www.linkedin.com/in/tuncay-kaynakkan-387352230/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Kaynakkantuncay@gmail.com">
