@@ -25,8 +25,11 @@ Aynı zamanda Python ve Flutter kullanarak güvenli, yapay zeka destekli uygulam
 </div>
 
 <br/>
+
 - 🛡️ **Siber Güvenlik:** Ağ analizi, anomali tespiti ve defansif/ofansif güvenlik mimarileri.
+- 
 - 💻 **Yazılım Geliştirme:** Python (Backend & Veri Analizi) ve Flutter (Mobil/Masaüstü Cross-Platform).
+- 
 - 🤖 **Yapay Zeka:** Gemini AI gibi modern dil modellerini güvenlik sistemlerine entegre etmek.
 
 ### ⚡ Benim Hakkımda Kısa Kısa
