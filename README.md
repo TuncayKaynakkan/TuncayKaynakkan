@@ -1,47 +1,66 @@
-# Merhaba, Ben Tuncay! 👋
+# Merhaba, ben Tuncay 👋
 
-Yönetim Bilişim Sistemleri (MIS) mezunuyum ve Adana'da yaşıyorum. Temel odak noktam **siber güvenlik**, özellikle **Red Teaming** ve **Sızma Testleri (Penetration Testing)** alanlarında kendimi geliştiriyorum. 
+**Blue Team / SOC odaklı siber güvenlik adayı** · Ağ trafiği analizi ve tehdit tespiti üzerine kendi araçlarımı geliştiriyorum.
 
-Aynı zamanda Python ve Flutter kullanarak güvenli, yapay zeka destekli uygulamalar (EduTrace gibi) inşa ediyorum.
+Yönetim Bilişim Sistemleri mezunuyum, şu anda **İzmir Tire Kutsan MYO**'da Bilgisayar Programcılığı okuyorum. Hedefim bir SOC ekibinde analist olarak çalışmak. Bunun için öğrendiğim her konuyu çalışan bir projeye dönüştürmeye çalışıyorum.
 
-### 🛠️ Neler Yapıyorum?
-### 🖥️ Teknolojiler & Araçlar
+> 🇬🇧 *Aspiring SOC analyst (Blue Team). MIS graduate, currently studying Computer Programming. I build my own network monitoring and threat detection tools in Python and Flutter.*
+
+---
+
+### 🛡️ Öne Çıkan Proje: [EduTrace XDR](https://github.com/TuncayKaynakkan/EduTrace)
+
+Gerçek zamanlı ağ trafiğini izleyen, saldırıları tespit eden ve kullanıcıya **neden engellendiğini öğreten** açık kaynak bir güvenlik platformu.
+
+- 📡 **Paket yakalama:** Scapy ile TCP / UDP / ICMP trafiği
+- 🔍 **İmza tabanlı tespit:** SYN flood, UDP flood, ICMP flood, NULL/FIN/XMAS (Nmap stealth) taramaları, yavaş port taraması, RDP/SMB/SSH hedefli saldırılar
+- 🤖 **Anomali tespiti:** IsolationForest ile normal trafiği öğrenip sapmaları yakalama
+- 🌐 **Tehdit istihbaratı:** VirusTotal API ile IP itibarı sorgulama
+- 🧱 **Müdahale:** Windows Firewall üzerinden otomatik IP engelleme (yerel/özel IP'ler korumalı)
+- 🎓 **Eğitici raporlar:** Gemini AI ile her olay için Türkçe/İngilizce açıklama
+- 📊 **Canlı panel:** Flutter masaüstü dashboard (Socket.IO)
+
+`Python` · `Scapy` · `scikit-learn` · `Flask-SocketIO` · `Flutter` · `Dart`
+
+---
+
+### 🧰 Teknolojiler & Araçlar
 
 <div align="center">
-  <!-- Programlama Dilleri -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <br/>
-  <!-- Siber Güvenlik -->
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Scapy-1F6FEB?style=for-the-badge&logoColor=white" alt="Scapy" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <br/>
-  <!-- Diğer Araçlar -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-<br/>
+---
 
-- 🛡️ **Siber Güvenlik:** Ağ analizi, anomali tespiti ve defansif/ofansif güvenlik mimarileri.
-- 
-- 💻 **Yazılım Geliştirme:** Python (Backend & Veri Analizi) ve Flutter (Mobil/Masaüstü Cross-Platform).
-- 
-- 🤖 **Yapay Zeka:** Gemini AI gibi modern dil modellerini güvenlik sistemlerine entegre etmek.
+### 🎯 Yol Haritam (2026 – 2027)
+
+- [x] Kendi ağ izleme ve tehdit tespit aracımı geliştirmek (EduTrace)
+- [ ] EduTrace'i kendi laboratuvarımda Nmap / hping3 saldırılarıyla test edip sonuçları yayınlamak
+- [ ] TryHackMe **SOC Level 1** yolunu tamamlamak
+- [ ] EduTrace loglarını bir SIEM'e (Wazuh / Splunk) bağlamak
+- [ ] **CompTIA Security+** veya **BTL1** sertifikası
+- [ ] Bir SOC ekibinde staj
+
+---
 
 ### ⚡ Benim Hakkımda Kısa Kısa
-* 🏍️ Garajda vakit geçirmeyi, motosikletimin mekanik arıza tespitlerini ve parça değişimlerini kendim yapmayı severim.
-* 🐕 Gerçek bir hayvan dostuyum, enerjimi köpeğimle vakit geçirerek topluyorum.
-* 🏋️‍♂️ Düzenli olarak serbest ağırlık ve kuvvet antrenmanları yapıyorum.
-* 🎮 Rekabetçi oyunlarda iddialıyım; TFT, Mobile Legends ve PS5'te UFC favorilerim.
 
-### 📊 GitHub İstatistiklerim
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuncayKaynakkan&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tuncay's Activity Streak" />
-</div>
+- 🏍️ Motosikletimin arıza tespitini ve bakımını kendim yaparım. Sorun giderme benim için hobi.
+- 🐕 Gerçek bir hayvan dostuyum, enerjimi köpeğimle vakit geçirerek toplarım.
+- 🏋️‍♂️ Düzenli olarak serbest ağırlık ve kuvvet antrenmanı yaparım.
+- 🎮 Rekabetçi oyunlarda iddialıyım: TFT, Mobile Legends, PS5'te UFC.
+
+---
 
 ### 📫 Bana Ulaşın
 
@@ -49,7 +68,11 @@ Aynı zamanda Python ve Flutter kullanarak güvenli, yapay zeka destekli uygulam
   <a href="https://www.linkedin.com/in/tuncay-kaynakkan-387352230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Kaynakkantuncay@gmail.com" target="_blank">
+  <a href="mailto:Kaynakkantuncay@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=TuncayKaynakkan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
