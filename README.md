@@ -46,7 +46,6 @@ Gerçek zamanlı ağ trafiğini izleyen, saldırıları tespit eden ve kullanıc
 
 - [x] Kendi ağ izleme ve tehdit tespit aracımı geliştirmek (EduTrace)
 - [ ] EduTrace'i kendi laboratuvarımda Nmap / hping3 saldırılarıyla test edip sonuçları yayınlamak
-- [ ] TryHackMe **SOC Level 1** yolunu tamamlamak
 - [ ] EduTrace loglarını bir SIEM'e (Wazuh / Splunk) bağlamak
 - [ ] **CompTIA Security+** veya **BTL1** sertifikası
 - [ ] Bir SOC ekibinde staj
